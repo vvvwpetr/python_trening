@@ -1,2 +1,1 @@
-# python_trening
-# proba
+# Repository for Python Trining
